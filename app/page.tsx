@@ -11,7 +11,7 @@ export default function Home() {
           <p>otoro aguachile, sashimi, crudo</p>
         </div>
         <div className="my-3">
-          <h3>OLD MACDONALD HAD A FARM</h3>
+          <h3>OLD MACDONALD NO LONGER HAS A FARM</h3>
           <p>ragu, tagliatelle</p>
         </div>
         <div className="my-3">
