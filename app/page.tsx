@@ -32,10 +32,11 @@ export default function Home() {
           </p>
         </div>
         <div className="my-3">
-          <h3>RED WINE</h3>
-          <p>california, 2022</p>
+          <h3>WATER</h3>
+          <p>this guy john tells me that it&apos;s turned into wine</p>
         </div>
       </div>
+      <h3>1,000,000 Terra Classic (LUNC)</h3>
     </div>
   );
 }
